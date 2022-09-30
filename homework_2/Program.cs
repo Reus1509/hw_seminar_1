@@ -15,4 +15,4 @@ while(count < 3)
     }
     count++;
 }
-Console.WriteLine("Самое большое число: " + max);
+Console.WriteLine(max);
