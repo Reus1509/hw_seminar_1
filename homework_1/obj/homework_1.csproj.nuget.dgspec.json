@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\СмартАптека\\Desktop\\edu_programming\\study_projects\\seminar_1\\homework_1\\homework_1.csproj": {}
+    "C:\\Users\\СмартАптека\\Desktop\\homework_seminar_1\\homework_1\\homework_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\СмартАптека\\Desktop\\edu_programming\\study_projects\\seminar_1\\homework_1\\homework_1.csproj": {
+    "C:\\Users\\СмартАптека\\Desktop\\homework_seminar_1\\homework_1\\homework_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\СмартАптека\\Desktop\\edu_programming\\study_projects\\seminar_1\\homework_1\\homework_1.csproj",
+        "projectUniqueName": "C:\\Users\\СмартАптека\\Desktop\\homework_seminar_1\\homework_1\\homework_1.csproj",
         "projectName": "homework_1",
-        "projectPath": "C:\\Users\\СмартАптека\\Desktop\\edu_programming\\study_projects\\seminar_1\\homework_1\\homework_1.csproj",
+        "projectPath": "C:\\Users\\СмартАптека\\Desktop\\homework_seminar_1\\homework_1\\homework_1.csproj",
         "packagesPath": "C:\\Users\\СмартАптека\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\СмартАптека\\Desktop\\edu_programming\\study_projects\\seminar_1\\homework_1\\obj\\",
+        "outputPath": "C:\\Users\\СмартАптека\\Desktop\\homework_seminar_1\\homework_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\СмартАптека\\AppData\\Roaming\\NuGet\\NuGet.Config"
